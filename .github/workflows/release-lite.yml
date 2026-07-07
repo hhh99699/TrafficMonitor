@@ -1,4 +1,4 @@
-name: Build TrafficMonitor Lite Release
+name: Release TrafficMonitor Lite Release 1
 
 on:
   workflow_dispatch:
